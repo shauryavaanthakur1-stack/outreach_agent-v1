@@ -1,0 +1,6 @@
+flasks
+requests
+beautifulsoup4
+ddgs
+groq
+python-dotenv
